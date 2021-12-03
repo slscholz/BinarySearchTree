@@ -1,6 +1,6 @@
-README Project 3
+
 Samantha Scholz
-due: 4/3/20
+README Completed: 4/3/20
 
 Struct for BNode:
 	-prepares word and line number data to be inserted into a binary search tree
